@@ -5,6 +5,12 @@ import javax.sound.sampled.SourceDataLine;
 class NewClass {
     
 }
+class NewClass2 {
+    
+}
+class NewClass3 {
+    
+}
 
 class Satya {
     public static void main(String[] args){
