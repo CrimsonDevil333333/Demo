@@ -2,6 +2,10 @@ package com.satya;
 
 import javax.sound.sampled.SourceDataLine;
 
+class NewClass {
+    
+}
+
 class Satya {
     public static void main(String[] args){
         System.out.println("Hello World");
