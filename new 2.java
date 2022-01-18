@@ -5,7 +5,7 @@ import javax.sound.sampled.SourceDataLine;
 class NewClass {
     
 }
-
+// Comments added
 class Satya {
     public static void main(String[] args){
         System.out.println("Hello World");
